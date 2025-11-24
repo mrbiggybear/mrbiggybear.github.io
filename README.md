@@ -1,7 +1,7 @@
 > Welcome to 
 
-# BJ Landis's 
+# Billy J Landis Jr's 
 
 __GitHub Profile__
 
-This profile is no long active for developement.
+This profile doe not have public repos at this time.
