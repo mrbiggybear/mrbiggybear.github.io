@@ -16,6 +16,7 @@
 - I am a fan of CLI and simplar software projects that are crossplatform and does not rely on an internet connection.
 - Configuring and documenting a homelab compiled of older salvaged hardware.
 - Updating my portfolio with practical, real-world solutions. _Currenlty only available upon request._
+- Learning with Kaggle
 
 ### Let’s Connect
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/[your-profile])   -->
