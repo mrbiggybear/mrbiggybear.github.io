@@ -15,7 +15,7 @@
 
 ### Let’s Connect
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/[your-profile])   -->
-📫 Reach me at: **[email]**
+📫 Reach me at: **[iam.blandis@gmail.com]**
 
 ---
 
