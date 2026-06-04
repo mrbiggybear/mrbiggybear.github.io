@@ -1,12 +1,28 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mr.biggybear&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mr.biggybear&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mr.biggybear&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mr.biggybear&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Aloha, I'm Billy </h1>
+<h3 align="center">Software Engineer | Technician | Mentor </h3>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mr.biggybear&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_biggy_bear) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iam.blandis@gmail.com) 
+
+### About Me
+- I am a professional with experience in software/system support, troubleshooting, and process improvement  
+- I am always open to new opportunities
+- Based in Hawaii (HST) — open to remote or on-island roles.  
+- Passionate about learning and teaching tech.  
+
+### What I’m Working On
+- I am a fan of CLI and simplar software projects that are crossplatform and does not rely on an internet connection.
+- Configuring and documenting a homelab compiled of older salvaged hardware.
+- Updating my portfolio with practical, real-world solutions. _Currenlty only available upon request._
+
+### Let’s Connect
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/[your-profile])   -->
+Reach me at: **[iam.blandis@gmail.com]**
+
+---
+
+<p align="center">
+  <i>“Check the Logs.”</i>
+</p>
