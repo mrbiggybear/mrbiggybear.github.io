@@ -13,7 +13,7 @@
 - Passionate about learning and teaching tech.  
 
 ### What I’m Working On
-- I am a fan of CLI and simplar software projects that are crossplatform and does not rely on an internet connection.
+- I am a fan of CLI and simple UI software projects that are crossplatform and does not rely on an internet connection.
 - Configuring and documenting a homelab compiled of older salvaged hardware.
 - Updating my portfolio with practical, real-world solutions. _Currenlty only available upon request._
 - Learning with Kaggle
