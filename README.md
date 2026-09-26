@@ -1,5 +1,5 @@
 <h1 align="center">Aloha, I'm Billy </h1>
-<h3 align="center">Software Engineer | Technician | Mentor </h3>
+<h3 align="center">Software Engineer | Technician | Educator | Mentor </h3>
 
 ---
 
